@@ -9,5 +9,8 @@ class Singleton:
     def saludar(self,hola):
         print(hola)
 
+    def ayuda(self,saludar):
+        print(saludar);
+
 
 
