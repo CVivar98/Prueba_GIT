@@ -10,7 +10,7 @@ class Singleton:
         print(hola)
 
     def ayuda(self,saludar):
-        print(saludar);
+        print(saludar)
 
 
 
